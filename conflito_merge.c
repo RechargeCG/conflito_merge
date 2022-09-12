@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Conflito merge");
+    printf("Conflito merge 2");
 
     return 0;
 }
